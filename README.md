@@ -1,3 +1,3 @@
-## 심진칠 team 
+## 신진칠 team 
 
-*Collaborator*: 김형규, 문수현, 박지은, 심진철, 이은새
+*Collaborator*: 김형규, 문수현, 박지은, 신진철, 이은새
