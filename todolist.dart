@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     '약 주기',
   ];
 
-  Timer timer;
+  late Timer timer;
 
   @override
   void initState() {
@@ -53,7 +53,7 @@ class _MyAppState extends State<MyApp> {
             },
           ),
           actions: <Widget>[
-            FlatButton(
+            FloatingActionButton(
               child: Text('추가'),
               onPressed: () {
                 setState(() {
